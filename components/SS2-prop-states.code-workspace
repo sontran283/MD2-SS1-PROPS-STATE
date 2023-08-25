@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../../quan li sinh vien"
+		},
+		{
+			"path": "../../../../../demo-quanlisinhvien"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "quan li sinh vien"
+	}
+}
